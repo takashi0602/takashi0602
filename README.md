@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+  <img alt="Most Used Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takashi0602&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="Takashi's GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takashi0602&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
+<img alt="Trophies" height="120px" src="https://github-profile-trophy.vercel.app/?username=takashi0602&theme=onedark&column=7" />
+
 <!--
 **takashi0602/takashi0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
